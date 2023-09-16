@@ -1,0 +1,160 @@
+---
+object: card
+id: 061cb705-695a-4f65-adbf-869ebb4eb946
+oracle_id: caf4a0d2-64de-42df-a88e-bb0d3f34e207
+multiverse_ids: []
+tcgplayer_id: 78592
+name: Kithkin Soldier
+lang: en
+released_at: '2008-05-02'
+uri: https://api.scryfall.com/cards/061cb705-695a-4f65-adbf-869ebb4eb946
+scryfall_uri: https://scryfall.com/card/tshm/1/kithkin-soldier?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/6/061cb705-695a-4f65-adbf-869ebb4eb946.jpg?1562279127
+  normal: https://cards.scryfall.io/normal/front/0/6/061cb705-695a-4f65-adbf-869ebb4eb946.jpg?1562279127
+  large: https://cards.scryfall.io/large/front/0/6/061cb705-695a-4f65-adbf-869ebb4eb946.jpg?1562279127
+  png: https://cards.scryfall.io/png/front/0/6/061cb705-695a-4f65-adbf-869ebb4eb946.png?1562279127
+  art_crop: https://cards.scryfall.io/art_crop/front/0/6/061cb705-695a-4f65-adbf-869ebb4eb946.jpg?1562279127
+  border_crop: https://cards.scryfall.io/border_crop/front/0/6/061cb705-695a-4f65-adbf-869ebb4eb946.jpg?1562279127
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Kithkin Soldier
+oracle_text: ''
+power: '1'
+toughness: '1'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+all_parts:
+- object: related_card
+  id: b3fd4ccb-e632-4fa0-8e36-6103806f020c
+  component: combo_piece
+  name: Patrol Signaler
+  type_line: Creature — Kithkin Soldier
+  uri: https://api.scryfall.com/cards/b3fd4ccb-e632-4fa0-8e36-6103806f020c
+- object: related_card
+  id: 311c5f1d-7e3b-4397-b05b-f20bde2dc164
+  component: combo_piece
+  name: Guardian of Cloverdell
+  type_line: Creature — Treefolk Shaman
+  uri: https://api.scryfall.com/cards/311c5f1d-7e3b-4397-b05b-f20bde2dc164
+- object: related_card
+  id: 37bcc0fd-1eea-4eb0-8099-e0e94ffe00b6
+  component: combo_piece
+  name: Cenn's Enlistment
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/37bcc0fd-1eea-4eb0-8099-e0e94ffe00b6
+- object: related_card
+  id: 38e64b09-1a58-4669-b7f2-baa3ccc85f2d
+  component: combo_piece
+  name: Repel Intruders
+  type_line: Instant
+  uri: https://api.scryfall.com/cards/38e64b09-1a58-4669-b7f2-baa3ccc85f2d
+- object: related_card
+  id: 82a2e219-9e84-4f54-88e2-3925e48c4827
+  component: combo_piece
+  name: Kinsbaile Borderguard
+  type_line: Creature — Kithkin Soldier
+  uri: https://api.scryfall.com/cards/82a2e219-9e84-4f54-88e2-3925e48c4827
+- object: related_card
+  id: 51cb97b9-ff1d-4d37-bee7-873cc7a1d8cf
+  component: combo_piece
+  name: Gwyllion Hedge-Mage
+  type_line: Creature — Hag Wizard
+  uri: https://api.scryfall.com/cards/51cb97b9-ff1d-4d37-bee7-873cc7a1d8cf
+- object: related_card
+  id: 061cb705-695a-4f65-adbf-869ebb4eb946
+  component: token
+  name: Kithkin Soldier
+  type_line: Token Creature — Kithkin Soldier
+  uri: https://api.scryfall.com/cards/061cb705-695a-4f65-adbf-869ebb4eb946
+- object: related_card
+  id: 53c8cde1-e447-422e-aed0-2571a77d3d29
+  component: combo_piece
+  name: Militia's Pride
+  type_line: Tribal Enchantment — Kithkin
+  uri: https://api.scryfall.com/cards/53c8cde1-e447-422e-aed0-2571a77d3d29
+- object: related_card
+  id: 6dfaa74a-0ef0-44bb-b8b5-6d121278b5a2
+  component: combo_piece
+  name: Cloudgoat Ranger
+  type_line: Creature — Giant Warrior Ranger
+  uri: https://api.scryfall.com/cards/6dfaa74a-0ef0-44bb-b8b5-6d121278b5a2
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 2dd7782a-5e58-4338-81ff-0841c66ee647
+set: tshm
+set_name: Shadowmoor Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/2dd7782a-5e58-4338-81ff-0841c66ee647
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atshm&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tshm?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/061cb705-695a-4f65-adbf-869ebb4eb946/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acaf4a0d2-64de-42df-a88e-bb0d3f34e207&unique=prints
+collector_number: '1'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Randy Gallegos
+artist_ids:
+- a5048cc7-438a-4378-98e4-da99b78e1db0
+illustration_id: '00825dcd-eb99-43e9-bf0d-efdba80b2bac'
+border_color: black
+frame: '2003'
+full_art: true
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '0.17'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Kithkin+Soldier&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Kithkin+Soldier&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Kithkin+Soldier
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/78592?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kithkin+Soldier&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kithkin+Soldier&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

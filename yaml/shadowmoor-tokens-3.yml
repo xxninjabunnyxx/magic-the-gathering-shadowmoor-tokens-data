@@ -1,0 +1,154 @@
+---
+object: card
+id: 1a85fe9d-ef18-46c4-88b0-cf2e222e30e4
+oracle_id: 7c753b68-b519-43ba-9c58-4902f4850626
+multiverse_ids: []
+tcgplayer_id: 78593
+name: Rat
+lang: en
+released_at: '2008-05-02'
+uri: https://api.scryfall.com/cards/1a85fe9d-ef18-46c4-88b0-cf2e222e30e4
+scryfall_uri: https://scryfall.com/card/tshm/3/rat?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/a/1a85fe9d-ef18-46c4-88b0-cf2e222e30e4.jpg?1562279130
+  normal: https://cards.scryfall.io/normal/front/1/a/1a85fe9d-ef18-46c4-88b0-cf2e222e30e4.jpg?1562279130
+  large: https://cards.scryfall.io/large/front/1/a/1a85fe9d-ef18-46c4-88b0-cf2e222e30e4.jpg?1562279130
+  png: https://cards.scryfall.io/png/front/1/a/1a85fe9d-ef18-46c4-88b0-cf2e222e30e4.png?1562279130
+  art_crop: https://cards.scryfall.io/art_crop/front/1/a/1a85fe9d-ef18-46c4-88b0-cf2e222e30e4.jpg?1562279130
+  border_crop: https://cards.scryfall.io/border_crop/front/1/a/1a85fe9d-ef18-46c4-88b0-cf2e222e30e4.jpg?1562279130
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Rat
+oracle_text: ''
+power: '1'
+toughness: '1'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+all_parts:
+- object: related_card
+  id: 2f1f88ed-b3bb-4cdf-a9dd-2ef79a84fd29
+  component: combo_piece
+  name: Ogre Slumlord
+  type_line: Creature — Ogre Rogue
+  uri: https://api.scryfall.com/cards/2f1f88ed-b3bb-4cdf-a9dd-2ef79a84fd29
+- object: related_card
+  id: '03648d6b-01a2-4de0-8d2a-c49f45d3d803'
+  component: combo_piece
+  name: Marrow-Gnawer
+  type_line: Legendary Creature — Rat Rogue
+  uri: https://api.scryfall.com/cards/03648d6b-01a2-4de0-8d2a-c49f45d3d803
+- object: related_card
+  id: d78fd600-d6ed-4f16-8aeb-02945044d235
+  component: combo_piece
+  name: Mad Ratter
+  type_line: Creature — Goblin
+  uri: https://api.scryfall.com/cards/d78fd600-d6ed-4f16-8aeb-02945044d235
+- object: related_card
+  id: 1a85fe9d-ef18-46c4-88b0-cf2e222e30e4
+  component: token
+  name: Rat
+  type_line: Token Creature — Rat
+  uri: https://api.scryfall.com/cards/1a85fe9d-ef18-46c4-88b0-cf2e222e30e4
+- object: related_card
+  id: b57c76be-082e-4552-9830-403a98992619
+  component: combo_piece
+  name: Chittering Witch
+  type_line: Creature — Human Warlock
+  uri: https://api.scryfall.com/cards/b57c76be-082e-4552-9830-403a98992619
+- object: related_card
+  id: b4810704-beb8-499c-a921-26f672fd33b2
+  component: combo_piece
+  name: Piper of the Swarm
+  type_line: Creature — Human Warlock
+  uri: https://api.scryfall.com/cards/b4810704-beb8-499c-a921-26f672fd33b2
+- object: related_card
+  id: 6fd5d79e-cfd8-484b-bbc8-785177922e30
+  component: combo_piece
+  name: Lab Rats
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/6fd5d79e-cfd8-484b-bbc8-785177922e30
+- object: related_card
+  id: 231613d6-d3b8-4b41-bc93-4d5da3fec5d0
+  component: combo_piece
+  name: Plague of Vermin
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/231613d6-d3b8-4b41-bc93-4d5da3fec5d0
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 2dd7782a-5e58-4338-81ff-0841c66ee647
+set: tshm
+set_name: Shadowmoor Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/2dd7782a-5e58-4338-81ff-0841c66ee647
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atshm&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tshm?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/1a85fe9d-ef18-46c4-88b0-cf2e222e30e4/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7c753b68-b519-43ba-9c58-4902f4850626&unique=prints
+collector_number: '3'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Carl Critchlow
+artist_ids:
+- 17948f16-611a-44b8-8d10-9895a0bdfff1
+illustration_id: 5cdbdbd0-810c-4b97-93b6-149790df68e0
+border_color: black
+frame: '2003'
+full_art: true
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '2.35'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Rat&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Rat&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Rat
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/78593?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rat&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rat&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
